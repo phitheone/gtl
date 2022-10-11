@@ -1,38 +1,103 @@
+@import url("https://fonts.googleapis.com/css2?family=VT323&display=swap");
+
+/* font-family: 'VT323', monospace; */
+
+body {
+  margin: 0;
+  font-family: "VT323", monospace;
+
+  /*colors*/
+  --color1: rgb(66, 66, 66);
+  --color2: yellow;
+  --color3: orange;
+  --color4: rgb(154, 38, 38);
+
+  --text-focus: rgb(255, 170, 12);
+  --text-secondary: white;
+
+  background: var(--color1);
+  color: var(--color2);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+a {
+  text-decoration: none;
+}
+
 .App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  height: 100vh;
 }
 
-.App-link {
-  color: #61dafb;
+.CaveImage {
+  z-index: 20;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+/*=========HOME==========*/
+
+.LinksContainer {
+  /* padding-left: 90px; */
+  padding-bottom: 50px;
+  display: flex;
+  flex-direction: row;
+  transform: translateX(-18px);
+
+  /* border: solid red 2px; */
 }
+
+.LinksCenter {
+  padding-right: 0px;
+  padding-left: 0px;
+  display: flex;
+  flex-direction: column;
+}
+
+.LinksLeft {
+  padding-top: 150px;
+  display: flex;
+  flex-direction: column;
+}
+
+.LinksRight {
+  padding-top: 150px;
+  display: flex;
+  flex-direction: column;
+}
+
+.Link1 {
+  height: 100px;
+  width: 140px;
+
+  /* border: solid red 2px; */
+}
+
+.Link2 {
+  height: 240px;
+  width: 140px;
+  cursor: pointer;
+
+  /* border: solid rgb(0, 255, 4) 2px; */
+}
+
+.Link3 {
+  height: 70px;
+  width: 100px;
+
+  /* border: solid rgb(0, 8, 255) 2px; */
+}
+
+.Link4 {
+  height: 70px;
+  width: 100px;
+
+  /* border: solid rgb(255, 0, 212) 2px; */
+}
+
+/*=============RARITY=============*/

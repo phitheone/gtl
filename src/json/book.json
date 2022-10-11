@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Effect",
+    "cards": [
+      {
+        "name": "Lightning",
+        "img": "books/book_effect/common/lightning.png",
+        "rarity": "Common",
+        "description": "A book imbued with the force of thunder"
+      },
+      {
+        "name": "Fire",
+        "img": "books/book_effect/common/fire.png",
+        "rarity": "Common",
+        "description": "A book imbued with the power of fire"
+      },
+      {
+        "name": "Ice",
+        "img": "books/book_effect/common/ice.png",
+        "rarity": "Common",
+        "description": "A book imbued with the power of ice"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Type",
+    "cards": [
+      {
+        "name": "Blue",
+        "img": "books/book_type/common/blue.png",
+        "rarity": "Common",
+        "description": "A blue book of common magic"
+      },
+      {
+        "name": "Green",
+        "img": "books/book_type/common/green.png",
+        "rarity": "Common",
+        "description": "A green book of common magic"
+      },
+      {
+        "name": "Orange",
+        "img": "books/book_type/common/orange.png",
+        "rarity": "Common",
+        "description": "An orange book of common magic"
+      },
+      {
+        "name": "Pink",
+        "img": "books/book_type/common/pink.png",
+        "rarity": "Common",
+        "description": "A pink book of common magic"
+      },
+      {
+        "name": "Gold",
+        "img": "books/book_type/rare/gold.png",
+        "rarity": "Rare",
+        "description": "A gold book of rare magic"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Symbols",
+    "cards": [
+      {
+        "name": "Flame",
+        "img": "books/symbols/common/flame.png",
+        "rarity": "Common",
+        "description": "A book from the school of flames"
+      },
+      {
+        "name": "Water sword",
+        "img": "books/symbols/common/water_sword.png",
+        "rarity": "Common",
+        "description": "A book from the school of the water sword"
+      },
+      {
+        "name": "Star",
+        "img": "books/symbols/uncommon/david_star.png",
+        "rarity": "Uncommon",
+        "description": "A book from the school of stars"
+      },
+      {
+        "name": "Necronomicon",
+        "img": "books/symbols/uncommon/necronomicon.png",
+        "rarity": "Uncommon",
+        "description": "A book from with power to raise the dead"
+      }
+    ]
+  }
+]

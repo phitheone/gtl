@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "title": "Symbol",
+    "cards": [
+      {
+        "name": "Nature",
+        "img": "coins/coin_symbol/common/nature.png",
+        "rarity": "Common",
+        "description": "A coin stamped with a tree"
+      },
+      {
+        "name": "Boat",
+        "img": "coins/coin_symbol/common/boat.png",
+        "rarity": "Common",
+        "description": "A coin stamped with a boat"
+      },
+      {
+        "name": "King",
+        "img": "coins/coin_symbol/rare/king.png",
+        "rarity": "Rare",
+        "description": "A coin stamped with a king"
+      },
+      {
+        "name": "Prince",
+        "img": "coins/coin_symbol/uncommon/prince.png",
+        "rarity": "Uncommon",
+        "description": "A coin stamped with a prince"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Outline",
+    "cards": [
+      {
+        "name": "Town",
+        "img": "coins/coin_outline/common/town.png",
+        "rarity": "Common",
+        "description": "A currency used to trade in towns"
+      },
+      {
+        "name": "Royal",
+        "img": "coins/coin_outline/common/royal.png",
+        "rarity": "Common",
+        "description": "A currency used to trade in castles"
+      },
+      {
+        "name": "City",
+        "img": "coins/coin_outline/common/city.png",
+        "rarity": "Common",
+        "description": "A currency used to trade in cities"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Material",
+    "cards": [
+      {
+        "name": "Bronze",
+        "img": "coins/coin_material/common/bronze.png",
+        "rarity": "Common",
+        "description": "A bronze coin"
+      },
+      {
+        "name": "Silver",
+        "img": "coins/coin_material/uncommon/silver.png",
+        "rarity": "Uncommon",
+        "description": "A silver coin"
+      },
+      {
+        "name": "Gold",
+        "img": "coins/coin_material/rare/gold.png",
+        "rarity": "Rare",
+        "description": "A gold coin"
+      }
+    ]
+  }
+]

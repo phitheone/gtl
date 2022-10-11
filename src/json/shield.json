@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "title": "Ornament",
+    "cards": [
+      {
+        "name": "Gold Circles",
+        "img": "shield/shield_ornament/uncommon/gold_circles.png",
+        "rarity": "Uncommon",
+        "description": "A shield with gold circles"
+      },
+      {
+        "name": "Iron Circles",
+        "img": "shield/shield_ornament/common/iron_circles.png",
+        "rarity": "Common",
+        "description": "A shield with iron circles"
+      },
+      {
+        "name": "Big Iron Circles",
+        "img": "shield/shield_ornament/common/big_iron_circles.png",
+        "rarity": "Common",
+        "description": "A shield with big iron circles"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Emblem",
+    "cards": [
+      {
+        "name": "Skull Emblem",
+        "img": "shield/shield_emblem/common/skull_emblem.png",
+        "rarity": "Common",
+        "description": "A shield with a skull emblem"
+      },
+      {
+        "name": "Fire Emblem",
+        "img": "shield/shield_emblem/common/fire_emblem.png",
+        "rarity": "Common",
+        "description": "A shield with a fire emblem"
+      },
+      {
+        "name": "Death Emblem",
+        "img": "shield/shield_emblem/common/death_emblem.png",
+        "rarity": "Common",
+        "description": "A shield with an emblem of death"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Base",
+    "cards": [
+      {
+        "name": "Wood",
+        "img": "shield/shield_base/common/wood.png",
+        "rarity": "Common",
+        "description": "A shield made of wood"
+      },
+      {
+        "name": "Iron",
+        "img": "shield/shield_base/common/iron.png",
+        "rarity": "Common",
+        "description": "A shield made of iron"
+      }
+    ]
+  }
+]

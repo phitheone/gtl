@@ -1,0 +1,104 @@
+[
+  {
+    "id": 1,
+    "title": "Aura",
+    "cards": [
+      {
+        "name": "Fire Aura",
+        "img": "ogres/ogre_aura/uncommon/fire_aura.png",
+        "rarity": "Uncommon",
+        "description": "An ogre from the lands of the volcanoes"
+      },
+      {
+        "name": "Ice Aura",
+        "img": "ogres/ogre_aura/uncommon/ice_aura.png",
+        "rarity": "Uncommon",
+        "description": "An ogre from the frozen wastelands"
+      },
+      {
+        "name": "Nature Aura",
+        "img": "ogres/ogre_aura/uncommon/nature_aura.png",
+        "rarity": "Uncommon",
+        "description": "An ogre blessed with the power of the forest"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Hat",
+    "cards": [
+      {
+        "name": "Crowned Ogre",
+        "img": "ogres/ogre_hat/rare/crown.png",
+        "rarity": "Rare",
+        "description": "An ogre king of his tribe"
+      },
+      {
+        "name": "Ogre Magi",
+        "img": "ogres/ogre_hat/rare/ogre_magi.png",
+        "rarity": "Rare",
+        "description": "An ogre capable of casting spells, he has been seen on some dota battles"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Type",
+    "cards": [
+      {
+        "name": "Ogre",
+        "img": "ogres/ogre_type/common/ogre.png",
+        "rarity": "Common",
+        "description": "A common ogre"
+      },
+      {
+        "name": "Old Ogre",
+        "img": "ogres/ogre_type/common/old_ogre.png",
+        "rarity": "Common",
+        "description": "A common old ogre"
+      },
+      {
+        "name": "Lightning Ogre",
+        "img": "ogres/ogre_type/rare/lightning_ogre.png",
+        "rarity": "Rare",
+        "description": "An Ogre imbued with the power of thunder"
+      },
+      {
+        "name": "Mana Ogre",
+        "img": "ogres/ogre_type/rare/lightning_ogre.png",
+        "rarity": "Rare",
+        "description": "An ogre blessed with mana"
+      },
+      {
+        "name": "Purple Ogre",
+        "img": "ogres/ogre_type/rare/purple_ogre.png",
+        "rarity": "Rare",
+        "description": "An ogre from the swamp"
+      },
+      {
+        "name": "Red Ogre",
+        "img": "ogres/ogre_type/rare/red_ogre.png",
+        "rarity": "Rare",
+        "description": "An ogre with corrupted blood"
+      },
+      {
+        "name": "Toxic Ogre",
+        "img": "ogres/ogre_type/rare/toxic_ogre.png",
+        "rarity": "Rare",
+        "description": "An ogre immune to poison"
+      },
+      {
+        "name": "Blue Ogre",
+        "img": "ogres/ogre_type/uncommon/blue_ogre.png",
+        "rarity": "Uncommon",
+        "description": "An ogre from the seas"
+      },
+      {
+        "name": "Stone Ogre",
+        "img": "ogres/ogre_type/uncommon/stone_ogre.png",
+        "rarity": "Uncommon",
+        "description": "An ogre with stone skin"
+      }
+    ]
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "title": "Hat",
+    "cards": [
+      {
+        "name": "Slime King",
+        "img": "slimes/slime_hat/rare/slime_king.png",
+        "rarity": "Rare",
+        "description": "A king of the slime tribe"
+      },
+      {
+        "name": "Mage Slime",
+        "img": "slimes/slime_hat/uncommon/mage_slime.png",
+        "rarity": "Uncommon",
+        "description": "A slime capable of casting spells"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Type",
+    "cards": [
+      {
+        "name": "Slime",
+        "img": "slimes/slime_type/common/slime.png",
+        "rarity": "Common",
+        "description": "A common slime"
+      },
+      {
+        "name": "Angry Slime",
+        "img": "slimes/slime_type/common/angry_slime.png",
+        "rarity": "Common",
+        "description": "A furious slime"
+      },
+      {
+        "name": "Angry Empowered Slime",
+        "img": "slimes/slime_type/rare/angry_empowered_slime.png",
+        "rarity": "Rare",
+        "description": "A slime blessed with sacred anger"
+      },
+      {
+        "name": "Flourescent Surprised Slime",
+        "img": "slimes/slime_type/rare/surprised_empowered_slime.png",
+        "rarity": "Rare",
+        "description": "A surpeised slime blessed with sacred power"
+      },
+      {
+        "name": "Empowered Slime",
+        "img": "slimes/slime_type/rare/empowered_slime.png",
+        "rarity": "Rare",
+        "description": "A slime blessed with sacred power"
+      },
+      {
+        "name": "Angry Burning Slime",
+        "img": "slimes/slime_type/uncommon/angry_burning_slime.png",
+        "rarity": "Uncommon",
+        "description": "An angry slime imbued with the power of fire"
+      },
+      {
+        "name": "Burning Slime",
+        "img": "slimes/slime_type/uncommon/burning_slime.png",
+        "rarity": "Uncommon",
+        "description": "A slime imbued with fire power"
+      },
+      {
+        "name": "Surprised Burning Slime",
+        "img": "slimes/slime_type/uncommon/surprised_burning_slime.png",
+        "rarity": "Uncommon",
+        "description": "A surprised slime imbued with fire power"
+      },
+      {
+        "name": "Happy Burning Slime",
+        "img": "slimes/slime_type/uncommon/happy_burning_slime.png",
+        "rarity": "Uncommon",
+        "description": "A happy slime imbued with fire power"
+      },
+      {
+        "name": "Mana Slime",
+        "img": "slimes/slime_type/uncommon/mana_slime.png",
+        "rarity": "Uncommon",
+        "description": "A slime imbued with mana"
+      }
+    ]
+  }
+]

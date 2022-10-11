@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "title": "Hat",
+    "cards": [
+      {
+        "name": "Skeleton King",
+        "img": "skeletons/skeleton_hat/rare/skeleton_king.png",
+        "rarity": "Rare",
+        "description": "A bone to rule them all"
+      },
+      {
+        "name": "Skeleton Mage",
+        "img": "skeletons/skeleton_hat/uncommon/skeleton_mage.png",
+        "rarity": "Uncommon",
+        "description": "A skeleton capable of casting spells"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Type",
+    "cards": [
+      {
+        "name": "Skeleton",
+        "img": "skeletons/skeleton_type/common/skeleton.png",
+        "rarity": "Common",
+        "description": "A common skeleton"
+      },
+      {
+        "name": "Mana Creepy Skeleton",
+        "img": "skeletons/skeleton_type/rare/mana_creepy_skeleton.png",
+        "rarity": "Rare",
+        "description": "A skeleton imbued with dark mana"
+      },
+      {
+        "name": "Mana Overcharged Skeleton",
+        "img": "skeletons/skeleton_type/uncommon/fire_skeleton.png",
+        "rarity": "Uncommon",
+        "description": "A skeleton overcharged with mana"
+      },
+      {
+        "name": "Flourescent Skeleton",
+        "img": "skeletons/skeleton_type/uncommon/flourescent_skeleton.png",
+        "rarity": "Uncommon",
+        "description": "A skeleton overcharged with mana"
+      },
+      {
+        "name": "Ice Skeleton",
+        "img": "skeletons/skeleton_type/uncommon/ice_skeleton.png",
+        "rarity": "Uncommon",
+        "description": "A skeleton from the icy depths"
+      },
+      {
+        "name": "Putrid Skeleton",
+        "img": "skeletons/skeleton_type/uncommon/putrid_skeleton.png",
+        "rarity": "Uncommon",
+        "description": "A skeleton corroded by the passage of time"
+      },
+      {
+        "name": "Golden Royal Skeleton",
+        "img": "skeletons/skeleton_type/ultra_rare/golden_royal_skeleton.png",
+        "rarity": "Ultra Rare",
+        "description": "Once a royal guard, now a skeletal executioner"
+      }
+    ]
+  }
+]

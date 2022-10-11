@@ -1,0 +1,116 @@
+[
+  {
+    "id": 1,
+    "title": "Power",
+    "cards": [
+      {
+        "name": "toxic power",
+        "img": "bow/bow_power/uncommon/toxic_power.png",
+        "rarity": "Uncommon",
+        "description": "A bow imbued with poison"
+      },
+      {
+        "name": "Thunder Imbued",
+        "img": "bow/bow_power/uncommon/thunder_imbued.png",
+        "rarity": "Uncommon",
+        "description": "A bow imbued with the power of the storms"
+      },
+      {
+        "name": "Green Flame",
+        "img": "bow/bow_power/uncommon/green_flame.png",
+        "rarity": "Uncommon",
+        "description": "A bow imbued with the power of nature"
+      },
+      {
+        "name": "Dark Power",
+        "img": "bow/bow_power/uncommon/dark_power.png",
+        "rarity": "Uncommon",
+        "description": "A bow imbued with the power of darkness"
+      },
+      {
+        "name": "Burning Power",
+        "img": "bow/bow_power/uncommon/burning_power.png",
+        "rarity": "Uncommon",
+        "description": "A bow imbued with the power of fire"
+      },
+      {
+        "name": "Blue Flame",
+        "img": "bow/bow_power/uncommon/blue_flame.png",
+        "rarity": "Uncommon",
+        "description": "A bow imbued with the power of teh spirits"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Base",
+    "cards": [
+      {
+        "name": "Elf Bow",
+        "img": "bow/bow_base/uncommon/elf_bow.png",
+        "rarity": "Uncommon",
+        "description": "A bow of elven design"
+      },
+      {
+        "name": "Necromancer Bow",
+        "img": "bow/bow_base/rare/necromancer_bow.png",
+        "rarity": "Rare",
+        "description": "A bow created by a necromancer"
+      },
+      {
+        "name": "Ice Bow",
+        "img": "bow/bow_base/rare/ice_bow.png",
+        "rarity": "Rare",
+        "description": "A bow used in a frozen land"
+      },
+      {
+        "name": "Bow",
+        "img": "bow/bow_base/common/bow.png",
+        "rarity": "Common",
+        "description": "A common bow"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Arrow",
+    "cards": [
+      {
+        "name": "Silver Arrow",
+        "img": "bow/arrow/uncommon/silver_arrow.png",
+        "rarity": "Uncommon",
+        "description": "A silver plated arrow"
+      },
+      {
+        "name": "Frost Arrow",
+        "img": "bow/arrow/uncommon/frost_arrow.png",
+        "rarity": "Uncommon",
+        "description": "An arrow imbued with frost power"
+      },
+      {
+        "name": "Gold arrow",
+        "img": "bow/arrow/rare/gold_arrow.png",
+        "rarity": "Rare",
+        "description": "A golden plated arrow"
+      },
+      {
+        "name": "Blood arrow",
+        "img": "bow/arrow/rare/blood_arrow.png",
+        "rarity": "Rare",
+        "description": "An arrow imbued with the power of blood"
+      },
+      {
+        "name": "Black arrow",
+        "img": "bow/arrow/rare/black_arrow.png",
+        "rarity": "Rare",
+        "description": "A arrow imbued with dark power"
+      },
+      {
+        "name": "Arrow",
+        "img": "bow/arrow/common/arrow.png",
+        "rarity": "Common",
+        "description": "A common arrow"
+      }
+    ]
+  }
+]

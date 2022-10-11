@@ -1,0 +1,104 @@
+[
+  {
+    "id": 1,
+    "title": "Power",
+    "cards": [
+      {
+        "name": "Nature power",
+        "img": "sword/sword_power/common/nature_power.png",
+        "rarity": "Common",
+        "description": "A sword imbued with the power of nature"
+      },
+      {
+        "name": "Lightning Power",
+        "img": "sword/sword_power/common/lightning_power.png",
+        "rarity": "Common",
+        "description": "A sword imbued with thunder power"
+      },
+      {
+        "name": "Ice Power",
+        "img": "sword/sword_power/common/ice_power.png",
+        "rarity": "Common",
+        "description": "A sword imbued with ice power"
+      },
+      {
+        "name": "Fire Power",
+        "img": "sword/sword_power/common/fire_power.png",
+        "rarity": "common",
+        "description": "A sword imbued with fire power"
+      },
+      {
+        "name": "Dark Power",
+        "img": "sword/sword_power/common/dark_power.png",
+        "rarity": "Common",
+        "description": "A sword imbued with dark power"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Handle",
+    "cards": [
+      {
+        "name": "Dragon Handle",
+        "img": "sword/sword_handle/uncommon/dragon_handle.png",
+        "rarity": "Uncommon",
+        "description": "A sword with a dragonic handle"
+      },
+      {
+        "name": "Demon Fire Handle",
+        "img": "sword/sword_handle/rare/demon_fire_handle.png",
+        "rarity": "Rare",
+        "description": "A sword handle made with hell fire "
+      },
+      {
+        "name": "Blood Emblem",
+        "img": "sword/sword_handle/rare/blood_emblem.png",
+        "rarity": "Rare",
+        "description": "A sword with a bloody handle"
+      },
+      {
+        "name": "Sword Handle",
+        "img": "sword/sword_handle/common/sword_handle.png",
+        "rarity": "Common",
+        "description": "A common sword handle"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Blade",
+    "cards": [
+      {
+        "name": "Ice blade",
+        "img": "sword/blade/uncommon/ice_blade.png",
+        "rarity": "Uncommon",
+        "description": "A sword with an icy blade"
+      },
+      {
+        "name": "Gold Blade",
+        "img": "sword/blade/rare/gold_blade.png",
+        "rarity": "Rare",
+        "description": "A sword with a golden blade"
+      },
+      {
+        "name": "Wide Blade",
+        "img": "sword/blade/common/wide_blade.png",
+        "rarity": "Common",
+        "description": "A sword with a wide blade"
+      },
+      {
+        "name": "Royal Blade",
+        "img": "sword/blade/common/royal_blade.png",
+        "rarity": "Common",
+        "description": "A sword with a royal blade"
+      },
+      {
+        "name": "Iron Blade",
+        "img": "sword/blade/common/iron_blade.png",
+        "rarity": "Common",
+        "description": "A sword with an iron blade"
+      }
+    ]
+  }
+]
